@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Vanya Voivodova
-- 👀 I’m interested in the field of programming.
-- 🌱 I’m currently learning the Python programming language at Software University.
+- 👩‍💻  I’m interested in the field of programming.
+- 🏫 I’m currently learning the Python programming language at Software University.
+- 📧 My email address: vanqvoivodova@gmail.com
+
 
 
 <!---
